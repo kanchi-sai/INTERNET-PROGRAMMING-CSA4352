@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Profile</title>
+</head>
+<style>
+body{
+	background-color:orange;
+	font-size:60px;
+	text-align:center;
+    }
+</style>
+<h1><b><i>saigopal</b></i></h1>
+<p><img src="C:\Users\User\Documents\dp.jpg"; style="float:center;border:solid;border-color:green;"></img></p>
+<h2 style="text-align:left;background-color:green;border:solid;border-color:skyblue;"><b><u>ABOUT:</u></b></h2>
+<p style="text-align:left;font-size:40;">Myself P.Sathwik. I'm from kothakota,Andra praadesh.Currently pursuing 3rd year</p>
+<h3 style="text-align:left;background-color:green;border:solid;border-color:skyblue;"><u><b>QUALIFICATION:</u></b></h3>
+<ol style="text-align:left;font-size:40;"><i>
+<li>Saveetha School of Engineering, CGPA=8.0(pursuing)</li>
+<li>Sri Chaitanya jr.college,CGPA=9.4</li>
+<li>Montessori High School, CGPA=9.0</li>
+</i></ol>
+<h4 style="text-align:left;background-color:green;border:solid;border-color:skyblue;"><u><b>SKILLS:</u></b></h4>
+<ol style="text-align:left;font-size:40;">
+<li>Good Communication</li>
+<li>Critical Thinking</li>
+<li>Punctual and Reliable</li>
+</ol>
+</html>
