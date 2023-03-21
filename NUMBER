@@ -1,0 +1,7 @@
+<script>
+let number=prompt("enter the number");
+if(isNaN(number))
+{
+	alert("enter a valid number not an alphabet");
+}
+</script>
